@@ -1,2 +1,2 @@
-# ewmdevbook_366
-Custom Development: Packing of Inbound Deliveries
+# Chapter 366: Packing of Inbound Deliveries
+Workcenter enhancment on Inbound Delivery packing.
